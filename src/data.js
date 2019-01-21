@@ -1,0 +1,37 @@
+export const colors = [
+  'LightSalmon', 'PaleVioletRed', 'Tomato', 'Peru', 'MediumSlateBlue',
+  'Olive', 'SteelBlue', 'RosyBrown', 'SlateGray', 'ForestGreen'
+]
+
+export const quotes = [
+  { id: 1,
+    text: '“You know you’re in love when you can’t fall asleep because reality is finally better than your dreams.”',
+    author: 'Dr. Suess' },
+  { id: 2,
+    text: '“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.”',
+    author: 'Dr. Suess' },
+  { id: 3,
+    text: '“Great minds discuss ideas; average minds discuss events; small minds discuss people.”',
+    author: 'Eleanor Roosevelt' },
+  { id: 4,
+    text: '“It is hard to fail, but it is worse never to have tried to succeed.”',
+    author: 'Theodore Roosevelt' },
+  { id: 5,
+    text: '“Let us always meet each other with smile, for the smile is the beginning of love.”',
+    author: 'Mother Theresa' },
+  { id: 6,
+    text: '“If you want to be happy, be.”',
+    author: 'Tolstoy' },
+  { id: 7,
+    text: '“You miss 100 percent of the shots you never take.”',
+    author: 'Wayne Gretzky' },
+  { id: 8,
+    text: '“Life is what happens when you’re busy making other plans.”',
+    author: 'John Lennon' },
+  { id: 9,
+    text: '“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.”',
+    author: 'Mark Twain' },
+  { id: 10,
+    text: '“You only live once, but if you do it right, once is enough. ”',
+    author: 'Mae West' },  
+]
